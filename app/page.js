@@ -58,7 +58,7 @@ export default function Home() {
           <div className="flex lg:justify-end">
             <div className="relative rounded-3xl p-1 bg-gradient-to-br from-violet-600 via-fuchsia-500 to-rose-500 shadow-xl">
               <img
-                src="/bii.jpg"
+                src="/bii.JPG"
                 alt="Minus"
                 className="block h-[520px] w-[380px] max-w-full rounded-3xl object-cover bg-white"
               />
